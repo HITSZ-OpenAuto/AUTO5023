@@ -13,10 +13,10 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.PERSONAL_ACCESS_TOKEN }}
         run: |
-          REPO_NAME=$(echo ${{ github.repository }} | cut -d'/' -f2)
-          echo ${REPO_NAME}
+          REPO_N=$(echo ${{ github.repository }} | cut -d'/' -f2)
+          echo ${REPO_N}
           curl -X POST \
             -H "Accept: application/vnd.github.v3+json" \
             -H "Authorization: token $GITHUB_TOKEN" \
             https://api.github.com/repos/HITSZ-OpenAuto/hoa-moe/actions/workflows/course-single.yaml/dispatches \
-            -d '{"ref":"action-dev","inputs": {"repo_name": ${REPO_NAME}}}'
+            -d '{"ref":"action-dev","inputs": {"repo_name": "'"${REPO_N}"'"}}'
