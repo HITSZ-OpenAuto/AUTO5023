@@ -1,0 +1,82 @@
+{
+  ".github/workflows/trigger-workflow.yml": {
+    "size": 1418,
+    "time": 1751969714,
+    "hash": "54e9c93e7da6c5e345487f71c006d4a5958e8a4a"
+  },
+  ".hoa/worktree.json": {
+    "size": 2163,
+    "time": 1751770047,
+    "hash": "129e839f340db1ea32c371cc38a9f0dcb255887d"
+  },
+  "LICENSE": {
+    "size": 20844,
+    "time": 1713086108,
+    "hash": "5e01a9448c26b0a903576f7b1afc055f9f404b0f"
+  },
+  "README.md": {
+    "size": 5114,
+    "time": 1737815659,
+    "hash": "8e4ad815c7da0c7f7c55d629badeba77b8bf7803"
+  },
+  "assignments/.gitkeep": {
+    "size": 0,
+    "time": 1737815659,
+    "hash": "8e4ad815c7da0c7f7c55d629badeba77b8bf7803"
+  },
+  "assignments/2023_2024_作业.pdf": {
+    "size": 92508,
+    "time": 1737815659,
+    "hash": "8e4ad815c7da0c7f7c55d629badeba77b8bf7803"
+  },
+  "assignments/2023_2024_作业答案.pdf": {
+    "size": 304235,
+    "time": 1737815659,
+    "hash": "8e4ad815c7da0c7f7c55d629badeba77b8bf7803"
+  },
+  "exams/.gitkeep": {
+    "size": 0,
+    "time": 1737815659,
+    "hash": "8e4ad815c7da0c7f7c55d629badeba77b8bf7803"
+  },
+  "exams/2017秋_最优控制A4纸.pdf": {
+    "size": 2306088,
+    "time": 1737815659,
+    "hash": "8e4ad815c7da0c7f7c55d629badeba77b8bf7803"
+  },
+  "exams/2018秋_最优控制A4纸.pdf": {
+    "size": 13467738,
+    "time": 1737815659,
+    "hash": "8e4ad815c7da0c7f7c55d629badeba77b8bf7803"
+  },
+  "exams/2021秋_A4纸.pdf": {
+    "size": 35121756,
+    "time": 1737815659,
+    "hash": "8e4ad815c7da0c7f7c55d629badeba77b8bf7803"
+  },
+  "exams/2024秋 凸优化与最优控制 试题回忆.pdf": {
+    "size": 129013,
+    "time": 1737815659,
+    "hash": "8e4ad815c7da0c7f7c55d629badeba77b8bf7803"
+  },
+  "labs/.gitkeep": {
+    "size": 0,
+    "time": 1737815659,
+    "hash": "8e4ad815c7da0c7f7c55d629badeba77b8bf7803"
+  },
+  "labs/2024-最优控制-大作业.zip": {
+    "size": 4086178,
+    "time": 1737815659,
+    "hash": "8e4ad815c7da0c7f7c55d629badeba77b8bf7803"
+  },
+  "notes/.gitkeep": {
+    "size": 0,
+    "time": 1737815659,
+    "hash": "8e4ad815c7da0c7f7c55d629badeba77b8bf7803"
+  },
+  "tag.txt": {
+    "size": 101,
+    "time": 1737815659,
+    "hash": "8e4ad815c7da0c7f7c55d629badeba77b8bf7803"
+  }
+}
