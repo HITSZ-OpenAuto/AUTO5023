@@ -1,0 +1,88 @@
+ID: "AUTO5023"
+SimilarID: []
+Name: "凸优化与最优控制"
+CourseProperty:
+  Major:
+    - Year: "2023_2024"
+      Name: [ "自动化" ]
+      Degree: "本"
+  GradeSemesters:
+    - Grade: "大四"
+      Semester: "秋"
+  CourseType: "限选"
+  CourseID: "AUTO5023"
+  CourseName: "凸优化与最优控制"
+  Credit: "2.0"
+  CourseHour: "32.0"
+  GPAInfluence: "GPA"
+  GroupCourse:
+    Link: ""
+    Desc: ""
+    Name: ""
+    Ids: ["", "", ""]
+  GradeComposition:
+    - Name: "随堂测验"
+      Percentage: "10"
+    - Name: "作业"
+      Percentage: "20"
+    - Name: "期末考试"
+      Percentage: "70"
+  CourseHourComposition:
+    - Name: "授课"
+      Hour: "32"
+
+  Major:
+    - Year: "2024_2025"
+      Name: [ "自动化" ]
+      Degree: "本"
+  GradeSemesters:
+    - Grade: "大四"
+      Semester: "秋"
+  CourseType: "限选"
+  CourseID: "AUTO5023"
+  CourseName: "凸优化与最优控制"
+  Credit: "2.0"
+  CourseHour: "32.0"
+  GPAInfluence: "GPA"
+  GroupCourse:
+    Link: ""
+    Desc: ""
+    Name: ""
+    Ids: ["", "", ""]
+  GradeComposition:
+    - Name: "作业"
+      Percentage: "30"
+    - Name: "期末考试"
+      Percentage: "70"
+  CourseHourComposition:
+    - Name: "授课"
+      Hour: "32"
+
+  Major:
+    - Year: "2025_2026"
+      Name: [ "自动化" ]
+      Degree: "本"
+  GradeSemesters:
+    - Grade: "大四"
+      Semester: "秋"
+  CourseType: "限选"
+  CourseID: "AUTO5023"
+  CourseName: "凸优化与最优控制"
+  Credit: "2.0"
+  CourseHour: "32.0"
+  GPAInfluence: "GPA"
+  GroupCourse:
+    Link: ""
+    Desc: ""
+    Name: ""
+    Ids: ["", "", ""]
+  GradeComposition:
+    - Name: "随堂测验"
+      Percentage: "10"
+    - Name: "作业"
+      Percentage: "20"
+    - Name: "期末考试"
+      Percentage: "70"
+  CourseHourComposition:
+    - Name: "授课"
+      Hour: "32"
