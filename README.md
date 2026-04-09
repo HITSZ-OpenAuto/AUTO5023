@@ -1,36 +1,38 @@
-<!-- RDME_TOML_AUTOGEN_WARNING_START -->
-> [!WARNING]
-> TOML 自动化格式化/生成 README 失败：请检查 readme.toml，并查看 Actions 日志。
-<!-- RDME_TOML_AUTOGEN_WARNING_END -->
-
 # AUTO5023 - 凸优化与最优控制
+<!-- TOML-META: repo_type="normal" -->
+<!-- TOML-BADGES: source="grades_summary" -->
 
-![考查课](https://img.shields.io/badge/%E8%80%83%E6%9F%A5%E8%AF%BE-green)
-![学分](https://img.shields.io/badge/%E5%AD%A6%E5%88%86-2-moccasin)
-![本研共通](https://img.shields.io/badge/本研共通-lightskyblue)
-
-![成绩构成](https://img.shields.io/badge/%E6%88%90%E7%BB%A9%E6%9E%84%E6%88%90-gold)
+![成绩构成](https://img.shields.io/badge/成绩构成-gold)
 ![随堂测验10%](https://img.shields.io/badge/随堂测验-10%25-wheat)
-![作业20%](https://img.shields.io/badge/%E4%BD%9C%E4%B8%9A-20%25-wheat)
-![期末考试70%](https://img.shields.io/badge/%E6%9C%9F%E6%9C%AB%E8%80%83%E8%AF%95-70%25-wheat)
+![作业20%](https://img.shields.io/badge/作业-20%25-wheat)
+![期末考试70%](https://img.shields.io/badge/期末考试-70%25-wheat)
 
 2024 年秋情况：**无随堂测验**，作业（含凸优化习题以及最优控制大作业）占比为 30%，期末考试占比为 70%。
 
-## 课程内容介绍
-
 课程名称为“凸优化与最优控制”，其中用于讲解凸优化的课时占了约四分之三，尽管李衍杰老师每年都想要给“最优控制”多分配些课时。
 
-### 教材与参考书
+## 授课教师
+
+<!-- TOML-LECTURERS: part="items" -->
+
+## 教材
+<!-- TOML-SECTION: title="教材" -->
+
+<!-- TOML-ITEM: id="item-教材-1" -->
 
 凸优化部分的参考教材是 *Convex Optimization*, [Stephen Boyd](http://www.stanford.edu/~boyd/) & [Lieven Vandenberghe](http://www.ee.ucla.edu/~vandenbe/)。课上所使用的课件截取自配套课件（可从教材[官网](https://web.stanford.edu/~boyd/cvxbook/)下载）。
 
 最优控制部分的参考书有：
 
-1. A. E. Bryson and Y. C. Ho, Applied Optimal Control, New York: Taylor & Francis, 1975.
-2. D. E. Kirk, Optimal Control Theory an Introduction, New York, Dover Publication Inc., 2004.
-3. D. P. Bertsekas, Dynamic Programming and Optimal Control, Athena Scientific, 2007.
+- **Convex Optimization**（Stephen Boyd / Lieven Vandenberghe / Cambridge University Press / textbook）
+- **Applied Optimal Control**（A. E. Bryson / Y. C. Ho / Taylor & Francis / textbook）
+- **Optimal Control Theory an Introduction**（D. E. Kirk / Dover Publication Inc. / textbook）
+- **Dynamic Programming and Optimal Control**（D. P. Bertsekas / Athena Scientific / textbook）
 
-### 主要内容
+## 课程内容
+<!-- TOML-SECTION: title="课程内容" -->
+
+<!-- TOML-ITEM: id="item-课程内容-1" -->
 
 {{% details title="第一讲 绪论" closed="true" %}} 主要内容是：凸优化与最优控制简介，包括各种凸优化和最优控制应用的实例。 {{% /details %}}
 
@@ -48,25 +50,15 @@
 
 {{% details title="第八、九讲 动态优化与最优控制（重点）" closed="true" %}} 主要内容是：动态优化问题（最优控制问题）的三大方法——变分法、庞德里亚金最大值原理和动态规划，以及最优控制的数值解法。 {{% /details %}}
 
-> 文 / [Hye](https://github.com/Co-ding-Man), 2025.1
-
-## 授课教师
-
-- 李衍杰
-  - 课堂轻松愉悦，时常插入一些有趣的题外话。讲课节奏不快（甚至略显拖沓），有时会在一些具体示例上花很长时间讲解。不太点名。
-  - 听课建议：可以重点听听优化问题之间的转化。
-  - ~~课内知识我跳帧听讲，课外唠嗑我逐字分享。~~
-
-> 文 / [Hye](https://github.com/Co-ding-Man), 2025.1
-
-<!-- ## 关于作业 -->
+> 文 / [Hye](https://github.com/Co-ding-Man)，2025-01
 
 ## 关于考试
+<!-- TOML-SECTION: title="关于考试" -->
+
+<!-- TOML-ITEM: id="item-关于考试-1" -->
 
 允许携带一张A4纸。可以带计算器（但基本用不上）。
 
 这门考试的考点其实是很明确的，因为所讲的内容确实不多。凸优化中的复杂证明在课上就不会讲到，而是被当作“对我们没有什么用处”的“纯粹的数学”一笔带过（笑）。而最优控制问题中的复杂计算又难以考查。考试中最难的也就是一些稍微需要技巧的证明（主要是优化问题之间的转化），如果之前没有了解具体方法未必能想出证法，不过好在这些在课上都会讲到。
 
-> 文 / [Hye](https://github.com/Co-ding-Man), 2025.1
-
-## 学习建议
+> 文 / [Hye](https://github.com/Co-ding-Man)，2025-01
