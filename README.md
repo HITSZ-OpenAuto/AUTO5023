@@ -1,3 +1,8 @@
+<!-- RDME_TOML_AUTOGEN_WARNING_START -->
+> [!WARNING]
+> TOML 自动化格式化/生成 README 失败：请检查 readme.toml，并查看 Actions 日志。
+<!-- RDME_TOML_AUTOGEN_WARNING_END -->
+
 # AUTO5023 - 凸优化与最优控制
 
 ![考查课](https://img.shields.io/badge/%E8%80%83%E6%9F%A5%E8%AF%BE-green)
