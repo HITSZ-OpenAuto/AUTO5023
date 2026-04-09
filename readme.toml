@@ -8,7 +8,7 @@ description = """
 课程名称为“凸优化与最优控制”，其中用于讲解凸优化的课时占了约四分之三，尽管李衍杰老师每年都想要给“最优控制”多分配些课时。
 """
 
-[[lecturers]]
+[lecturers]
 name = "李衍杰"
 
 [[lecturers.items.reviews]]
