@@ -1,3 +1,0 @@
-category: 本研共通
-semester: 第四学年秋季 / 研究生秋季
-name: 凸优化与最优控制
