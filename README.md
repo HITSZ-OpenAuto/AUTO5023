@@ -1,11 +1,5 @@
 # AUTO5023 - 凸优化与最优控制
 <!-- TOML-META: repo_type="normal" -->
-<!-- TOML-BADGES: source="grades_summary" -->
-
-![成绩构成](https://img.shields.io/badge/成绩构成-gold)
-![随堂测验10%](https://img.shields.io/badge/随堂测验-10%25-wheat)
-![作业20%](https://img.shields.io/badge/作业-20%25-wheat)
-![期末考试70%](https://img.shields.io/badge/期末考试-70%25-wheat)
 
 2024 年秋情况：**无随堂测验**，作业（含凸优化习题以及最优控制大作业）占比为 30%，期末考试占比为 70%。
 
