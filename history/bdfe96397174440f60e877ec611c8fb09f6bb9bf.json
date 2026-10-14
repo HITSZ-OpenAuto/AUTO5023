@@ -1,0 +1,87 @@
+{
+  ".github/workflows/trigger-workflow.yml": {
+    "size": 518,
+    "time": 1763814246,
+    "hash": "d85d3295e9c2f0fef844f31e0527e71ebc75ce85"
+  },
+  "LICENSE": {
+    "size": 20844,
+    "time": 1713086108,
+    "hash": "5e01a9448c26b0a903576f7b1afc055f9f404b0f"
+  },
+  "README.md": {
+    "size": 4384,
+    "time": 1791961309,
+    "hash": "bdfe96397174440f60e877ec611c8fb09f6bb9bf"
+  },
+  "assignments/.gitkeep": {
+    "size": 0,
+    "time": 1737815659,
+    "hash": "8e4ad815c7da0c7f7c55d629badeba77b8bf7803"
+  },
+  "assignments/2023_2024_作业.pdf": {
+    "size": 92508,
+    "time": 1737815659,
+    "hash": "8e4ad815c7da0c7f7c55d629badeba77b8bf7803"
+  },
+  "assignments/2023_2024_作业答案.pdf": {
+    "size": 304235,
+    "time": 1737815659,
+    "hash": "8e4ad815c7da0c7f7c55d629badeba77b8bf7803"
+  },
+  "exams/.gitkeep": {
+    "size": 0,
+    "time": 1737815659,
+    "hash": "8e4ad815c7da0c7f7c55d629badeba77b8bf7803"
+  },
+  "exams/2017秋_最优控制A4纸.pdf": {
+    "size": 2306088,
+    "time": 1737815659,
+    "hash": "8e4ad815c7da0c7f7c55d629badeba77b8bf7803"
+  },
+  "exams/2018秋_最优控制A4纸.pdf": {
+    "size": 13467738,
+    "time": 1737815659,
+    "hash": "8e4ad815c7da0c7f7c55d629badeba77b8bf7803"
+  },
+  "exams/2021秋_A4纸.pdf": {
+    "size": 35121756,
+    "time": 1737815659,
+    "hash": "8e4ad815c7da0c7f7c55d629badeba77b8bf7803"
+  },
+  "exams/2024秋 凸优化与最优控制 试题回忆.pdf": {
+    "size": 129013,
+    "time": 1737815659,
+    "hash": "8e4ad815c7da0c7f7c55d629badeba77b8bf7803"
+  },
+  "exams/2025秋 凸优化与最优控制 试题回忆.pdf": {
+    "size": 262662,
+    "time": 1768890985,
+    "hash": "ca54cb5511305534463a50d8775f21b44b4658d0"
+  },
+  "labs/.gitkeep": {
+    "size": 0,
+    "time": 1737815659,
+    "hash": "8e4ad815c7da0c7f7c55d629badeba77b8bf7803"
+  },
+  "labs/2024-最优控制-大作业.zip": {
+    "size": 4086178,
+    "time": 1737815659,
+    "hash": "8e4ad815c7da0c7f7c55d629badeba77b8bf7803"
+  },
+  "labs/2025-最优控制-大作业.zip": {
+    "size": 787031,
+    "time": 1768890985,
+    "hash": "ca54cb5511305534463a50d8775f21b44b4658d0"
+  },
+  "notes/.gitkeep": {
+    "size": 0,
+    "time": 1737815659,
+    "hash": "8e4ad815c7da0c7f7c55d629badeba77b8bf7803"
+  },
+  "readme.toml": {
+    "size": 4384,
+    "time": 1785345849,
+    "hash": "6fc2cee66a481ab736bb80128279f9b5cccf55c5"
+  }
+}
